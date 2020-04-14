@@ -34,4 +34,5 @@ Verify login sucess
     sleep  10
     Verify sucessfull login
 
-
+Closed navigator
+    Close my browsers
