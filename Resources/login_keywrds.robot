@@ -7,7 +7,7 @@ Variables   /home/elsys/PycharmProjects/pom_robotframe/PageObejcts/locators.py
 
 *** Keywords ***
 
-# Path geckodriver = usr/local/bin
+# Path geckodriver = usr/local/bin test
 Open my Browser
     [Arguments]  ${siteurl}     ${browser}
     open browser    ${siteurl}  ${browser}
