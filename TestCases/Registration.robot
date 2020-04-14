@@ -21,3 +21,7 @@ RegistrationTest
 Click Registration
     sleep   3
     click register link
+
+Close navigator
+    sleep  3
+    Close my browsers
