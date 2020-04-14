@@ -26,7 +26,10 @@ Clik login button
     click button  ${btn_click_login}
 
 
+Verify sucessfull login
+    title should be     Find a Flight: Mercury Tours:
 
 
-
+Close my browsers
+    close all browsers
 
