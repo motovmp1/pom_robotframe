@@ -5,13 +5,13 @@
 # Username field
 txt_username_input = "xpath://input[@name='userName']"
 
-
 # Password Field user
 txt_user_password_input = "xpath://input[@name='password']"
-
 
 # bnt click login
 btn_click_login = "xpath://input[@name='login']"
 
+# This is registers page elements
 
+link_Reg = "//a[contains(text(),'REGISTER')]"
 
