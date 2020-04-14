@@ -35,4 +35,5 @@ Verify login sucess
     Verify sucessfull login
 
 Closed navigator
+    sleep  3
     Close my browsers
